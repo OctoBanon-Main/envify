@@ -20,6 +20,11 @@ First, clone the project repository to your local machine:
 
 ```bash
 git clone https://github.com/OctoBanon-Main/envify.git
+```
+
+Then, navigate to the project directory:
+
+```bash
 cd envify
 ```
 
@@ -35,4 +40,4 @@ The compiled executable will be available in the `/target/release/` directory.
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the MIT License, which allows for free use and modification under its terms.
