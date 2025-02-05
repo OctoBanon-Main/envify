@@ -1,0 +1,12 @@
+[package]
+name = "envify"
+description = "Simple CLI tool for managing dotenv files"
+authors = ["OctoBanon (Maksim Bengraf) <me@octobanon.com>"]
+readme = "README.md"
+repository = "https://github.com/OctoBanon-Main/envify"
+license = "MIT"
+keywords = ["dotenv-managing", "cli", "rust"]
+version = "1.0.0"
+edition = "2021"
+
+[dependencies]
