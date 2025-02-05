@@ -15,6 +15,7 @@ Before building the project, ensure you have the following installed:
 ## Steps to Build
 
 1. Clone the repository:
+
 First, clone the project repository to your local machine:
 
 ```bash
@@ -23,6 +24,7 @@ cd envify
 ```
 
 2. Build the project:
+
 To compile the project, run the following command:
 
 ```bash
