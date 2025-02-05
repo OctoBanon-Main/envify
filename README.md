@@ -31,4 +31,4 @@ The compiled executable will be available in the `/target/release/` directory.
 
 ## License
 
-This project is licensed under the MIT license.
+This project is licensed under the MIT License.
