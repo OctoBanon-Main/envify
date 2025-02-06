@@ -2,7 +2,7 @@
 
 **Simple CLI tool for managing dotenv files**
 
-[English](README.md) | [Русский](README.ru.md)
+[English](README.md) | [Русский](docs/README.ru.md)
 
 Envify is a simple and convenient command-line tool for working with `.env` files. It is used for organizing, editing, and managing environment variables.
 
